@@ -3,6 +3,9 @@
   "name": "coverage-hole-detection",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+  "node": "16.x"
+},
   "dependencies": {
     "@material-ui/core": "^4.1.1",
     "@material-ui/icons": "^4.2.0",
